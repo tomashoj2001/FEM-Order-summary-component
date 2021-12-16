@@ -141,6 +141,7 @@ body{
         background-image: url(images/pattern-background-desktop.svg);
         background-size: 100vw 40vh;
         background-repeat: no-repeat;
+        height: 100vh;
     }
 
     .main{
